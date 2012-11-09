@@ -1,0 +1,35 @@
+Create a jifty todo model:
+    id
+    date
+    task text
+    completion boolean
+
+New Jifty RESTyThing
+
+
+    Serve up the object as JSON
+        API hash
+        Dispatcher rule
+        serializer
+    
+    Get a collection of objects
+
+
+    Create a new object as JSON
+    Modify an object's values with JSON
+    Delete an object
+
+
+
+Create a todolist controller
+Create a view that lists todos
+Specify the todos in a json file on disk
+Pull the todos from the server with a REST call
+
+Create a todo item controller
+Check off an item in the UI -> propagate an update to the server
+
+Create a view that shows one todo item
+Save a todo item to the server
+
+
